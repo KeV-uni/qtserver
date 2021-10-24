@@ -3,6 +3,7 @@
 
 #include <QWidget>
 #include <QTcpServer>
+#include <QtNetwork>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Server; }

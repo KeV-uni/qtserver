@@ -29,9 +29,9 @@
   <widget class="QLabel" name="lbl_Adrress">
    <property name="geometry">
     <rect>
-     <x>40</x>
+     <x>10</x>
      <y>90</y>
-     <width>47</width>
+     <width>350</width>
      <height>13</height>
     </rect>
    </property>
@@ -49,7 +49,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>PushButton</string>
+    <string>CERRAR</string>
    </property>
   </widget>
  </widget>
